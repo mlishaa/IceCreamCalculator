@@ -1,0 +1,16 @@
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\bin\Debug\IceCreamCalculator.exe.config
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\bin\Debug\IceCreamCalculator.exe
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\bin\Debug\IceCreamCalculator.pdb
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\IceCreamCalculator.csprojAssemblyReference.cache
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\App.g.cs
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\IceCreamCalculator_MarkupCompile.cache
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\IceCreamCalculator_MarkupCompile.lref
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\MainWindow.baml
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\IceCreamCalculator.g.resources
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\IceCreamCalculator.Properties.Resources.resources
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\IceCreamCalculator.csproj.GenerateResource.cache
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\IceCreamCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\IceCreamCalculator.exe
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\IceCreamCalculator.pdb
+C:\Users\ipd\source\repos\IceCreamCalculator\IceCreamCalculator\obj\Debug\App.baml
